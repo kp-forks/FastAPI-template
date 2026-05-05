@@ -1,5 +1,5 @@
-![python version](https://img.shields.io/pypi/pyversions/fastapi_template?style=for-the-badge) [![version](https://img.shields.io/pypi/v/fastapi_template?style=for-the-badge)](https://pypi.org/project/fastapi-template/)
-[![](https://img.shields.io/pypi/dm/fastapi_template?style=for-the-badge)](https://pypi.org/project/fastapi-template/)
+[![version](https://img.shields.io/pypi/v/fastapi_template?style=for-the-badge)](https://pypi.org/project/fastapi-template/)
+[![downloads](https://img.shields.io/pypi/dm/fastapi_template?style=for-the-badge)](https://pypistats.org/packages/fastapi-template)
 <div align="center">
 <img src="https://raw.githubusercontent.com/s3rius/FastAPI-template/master/images/logo.png" width=700>
 <div><i>Flexible general-purpose template for FastAPI.</i></div>
